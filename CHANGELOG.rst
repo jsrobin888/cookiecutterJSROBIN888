@@ -2,7 +2,7 @@
 Changelog
 =========
 
-0.0.0 (2019-03-02)
+0.1.0 (2019-03-03)
 ------------------
 
-* First release on PyPI.
+* First 1/2 release on PyPI.
