@@ -15,8 +15,8 @@ Overview
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
-.. |docs| image:: https://readthedocs.org/projects/cookiecutterJSROBIN888/badge/?style=flat
-    :target: https://readthedocs.org/projects/cookiecutterJSROBIN888
+.. |docs| image:: https://readthedocs.org/projects/cookiecutterjsrobin888/badge/?style=flat
+    :target: https://readthedocs.org/projects/cookiecutterjsrobin888
     :alt: Documentation Status
 
 .. |travis| image:: https://travis-ci.com/jsrobin888/cookiecutterJSROBIN888.svg?branch=master
